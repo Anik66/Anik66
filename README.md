@@ -16,7 +16,7 @@
         alt="zafir100100" />
 </p>
 
-- 📫 All of my projects are available at (my github)[https://github.com/Anik66?tab=repositories](https://github.com/Anik66?tab=repositories)
+- 📫 All of my projects are available at [my github](https://github.com/Anik66?tab=repositories)
 
 - 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
 
